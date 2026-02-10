@@ -90,7 +90,9 @@ This project focuses on **modern metrics** such as **xG, xA, xG Chain, xG Buildu
 │   └── laliga_14_20_players_stat.csv
 │
 ├── notebooks/
-│   └── player_stat_visualization.ipynb
+│   ├── player_stat_visualization.ipynb
+│   └── player_stat_data.ipynb
+
 
 ##  How to Run
 
