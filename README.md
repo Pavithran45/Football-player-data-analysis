@@ -59,7 +59,7 @@ This project focuses on **modern metrics** such as **xG, xA, xG Chain, xG Buildu
 * Selected cross-league comparison charts
 
 
-### 🔍 Advanced Analysis
+###  Advanced Analysis
 
 * Correlation analysis between key metrics
 * Player clustering using **K-Means**
@@ -72,7 +72,7 @@ This project focuses on **modern metrics** such as **xG, xA, xG Chain, xG Buildu
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Python**
 * **Pandas** – data processing
@@ -81,7 +81,7 @@ This project focuses on **modern metrics** such as **xG, xA, xG Chain, xG Buildu
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── data/
@@ -92,15 +92,15 @@ This project focuses on **modern metrics** such as **xG, xA, xG Chain, xG Buildu
 ├── notebooks/
 │   └── player_stat_visualization.ipynb
 
-## ▶️ How to Run
+##  How to Run
 
-### 1️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
 
-### 2️⃣ Run the notebook
+###  Run the notebook
 
 ```bash
 jupyter notebook player_stat_visualization.ipynb
@@ -119,7 +119,7 @@ or run the Python script.
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 * Football analytics and insights projects
 * Scouting & recruitment analysis
@@ -127,7 +127,7 @@ or run the Python script.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Interactive dashboards (Plotly / Dash)
 * Match-level integration
